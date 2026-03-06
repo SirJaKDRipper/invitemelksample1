@@ -412,7 +412,7 @@ export default function ClientHome() {
       </div>
       <div className="my-5 md:mb-6 flex justify-center">
         <Image
-          src="/Group_112.png"
+          src="Group_112.png"
           alt="image"
           width={1200}
           height={800}
