@@ -612,7 +612,7 @@ export default function ClientHome() {
       <div data-aos="fade-up" className="px-[5%] pb-20 md:pb-28">
         <div className="mx-auto max-w-6xl">
           <h2 className="text-5xl md:text-6xl tracking-wide">
-            RESHOOT GALLERY
+            PRESHOOT GALLERY
           </h2>
           <p className="mt-3 text-base md:text-lg opacity-80">
             A few moments from our pre-shoot — tap any photo to view.
